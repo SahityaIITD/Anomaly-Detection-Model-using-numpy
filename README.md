@@ -1,7 +1,7 @@
 # Anomaly-Detection-Model-using-numpy
 
 <a name="2"></a>
-## 2 - Anomaly detection
+## Anomaly detection
 
 <a name="2.1"></a>
 
@@ -19,7 +19,7 @@ dataset.
 * After that, you will apply the anomaly detection algorithm to a larger dataset with many dimensions. 
 
 <a name="2.2"></a>
-### 2.2  Dataset
+### Dataset
 
 We will start by loading the dataset for this task. 
 - The `load_data()` function shown below loads the data into the variables `X_train`, `X_val` and `y_val` 
